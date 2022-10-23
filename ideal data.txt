@@ -1,0 +1,37 @@
+pass: ALB7cN9k6ZwA@
+
+
+http://order.eb2a.com/activate
+.php?user=eb2a_32618768&email=83849af9ef@boxomail
+.live&hash=ede40df93a67297b866cf1ff2778b4ae&token=766774385045024
+
+
+
+
+
+
+Control panel username:	eb2a_32618768
+Control panel password:	ALB7cN9k6ZwA@
+Control panel URL:	cpanel.eb2a.com
+
+
+MySQL username	eb2a_32618768
+MySQL password:	**********
+MySQL hostname:	sql101.eb2a.com
+FTP username:	eb2a_32618768
+FTP password:	**********
+FTP host name:	ftp.eb2a.com
+Your Website URL:	http://idealacd.eb2a.com
+
+
+
+
+
+MySQL DB Name:		MySQL User Name:		MySQL Password:		MySQL Host Name:
+eb2a_32618768_ideal	eb2a_32618768	(Your vPanel Password)		sql101.eb2a.com
+
+
+
+const name ="ADMIN";
+const pass ="#ideal123admin456";
+ 	 
